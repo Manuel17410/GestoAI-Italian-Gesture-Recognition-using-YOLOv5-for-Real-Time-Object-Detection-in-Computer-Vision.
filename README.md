@@ -39,6 +39,6 @@ By class, there are some differences. Classes like awesome and lets go have lowe
 
 The two following pictures portray, how different metris vary depending on the number of epochs and real predictions of the dataset. 
 
-![Example Images](pics/Graphs.png)
+![Example Image](images/Graphs.png)
 
-![Example Images](pics/Pics.png)
+![Example Image](images/Pics.png)
