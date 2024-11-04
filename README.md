@@ -1,0 +1,3 @@
+# GestoAI: An Italian Gesture Recognition Model using YOLOv5 for Real-Time Object Detection with Computer Vision
+
+GestoAI is an object detection model designed to recognize and interpret Italian hand gestures using the YOLOv5 architecture. This project aims to capture the richness of Italian nonverbal communication by identifying and classifying distinct hand gestures in real-time. By leveraging advanced computer vision, GestoAI has potential applications in cross-cultural communication, interactive education, and immersive experiences, bringing the expressive nature of Italian gestures into digital spaces.
